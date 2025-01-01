@@ -1,0 +1,10 @@
+Solver,Turbulence Model,pressure (kPa),heat flux (MW/(m^2))
+,SA 2-T model,699.767,211.714
+,k- SST,212.096,936.69
+,k- SST 2-T model,584.417,935.502
+,SA-noft2 2013 QCR-V,505.187,603.978
+,k- SST,194.267,502.688
+,k- SST-KL,833.169,818.957
+,k- SST-V,169.919,622.788
+,k- SST-V no 2/3 rho*k,675.052,985.498
+,k- SST a1=0.355,932.83,298.51
