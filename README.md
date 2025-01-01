@@ -18,10 +18,11 @@ Physics of Fluids, 2025 (under review)
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ## Explanation of data
-In the folder `cfddata`, specific run data is provided for each case `Case1_6_42` and `Case2_7_40`. An example tree structure is provided below for `Case1_6_42` with subfolders for each participant and the wall - pressure and - heat flux data. The `.csv` filenames contain the turbulence model used (see paper for the exact details).
+In the folder `cfd_data`, specific run data is provided for each case `Case1_6_42` and `Case2_7_40`. An example tree structure is provided below for `Case1_6_42` with subfolders for each participant and the wall - pressure and - heat flux data. The `.csv` filenames contain the turbulence model used (see paper for the exact details).
 
 In addition, the data which is tabulated in the manuscript for each run is also provided as `{RUNXX}_integrated_values.csv` and `{RUNXX}_separation_peaks.csv`. The first naming convention refers to integrated quantities. The second naming contains information related to specific scalar values for peak and locations.
 
+The experimental data is provided in the folder `experimental_data`.
 ```
 └── run4
     ├── ansys_aselsan
