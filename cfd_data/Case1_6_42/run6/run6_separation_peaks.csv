@@ -1,0 +1,5 @@
+Solver,Turbulence Model,x$_{sep}$ (m),p$_{peak}$ (kPa),"p$_{peak,loc}$ (m)",q$_{peak}$ (MW/($m^2$)),"q$_{peak,loc}$ (m)"
+Eilmer,k-$\omega$ 2006,2.539,219.08,2.7,6.885,2.699
+Ansys Fluent (Aselsan),k-$\omega$ SST,2.51,225.57,2.713,6.33,2.713
+Cadence Fidelity,SSC-EARSM,2.623,138.09,2.687,4.011,2.665
+,k-$\omega$ SST a$_1$=0.355,2.565,168.94,2.701,5.858,2.697

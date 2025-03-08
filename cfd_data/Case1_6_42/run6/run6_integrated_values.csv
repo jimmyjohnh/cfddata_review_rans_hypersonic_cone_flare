@@ -1,0 +1,5 @@
+Solver,Turbulence Model,pressure (kPa),Heat Flux (MW/($m^2$))
+Eilmer,k-$\omega$ 2006,50.51,1.304
+Ansys Fluent (Aselsan),k-$\omega$ SST,50.07,1.317
+Cadence Fidelity,SSC-EARSM,50.81,1.227
+,k-$\omega$ SST a1=0.355,50.92,1.456
