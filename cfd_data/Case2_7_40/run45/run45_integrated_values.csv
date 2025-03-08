@@ -1,0 +1,26 @@
+Solver,Turbulence Model,pressure (kPa),Heat Flux (MW/($m^2$))
+STAR-CCM+,k-$\omega$ SST,132.95,2.18
+Eilmer,k-$\omega$ 2006,133.02,2.405
+Ansys Fluent (Aselsan),k-$\omega$ SST,132.06,2.371
+Cadence Fidelity,SSC-EARSM,133.9,2.544
+,k-$\omega$ SST,131.66,2.59
+TAU,EARSM WJ3D+TNT,126.28,2.304
+,EARSM WJ+Hellsten,126.28,2.553
+,SA-noft2,127.91,1.512
+,SA-neg,127.93,1.532
+,SSG/LRR-$\omega$ 2010  (SSGLRR-RSM-w2012),126.62,2.258
+,k-$\omega$ SST 2003,125.12,2.207
+,Wilcox RSM 2010  (WilcoxRSM-w2006),126.2,2.039
+,Menter BSL,126.16,1.99
+,Wilcox k-$\omega$ 1988,125.95,2.085
+,Wilcox k-$\omega$ + SST,125.95,2.059
+HyperCODA,SA-neg,130.1,1.6
+Ansys Fluent (Ansys Inc),GEKO,131.3,2.291
+SU2,k-$\omega$ SST,131.63,2.108
+VULCAN,SA,132.32,1.727
+,SA 2013 QCR-V,132.2,1.903
+,k-$\omega$ SST,131.53,2.396
+,k-$\omega$ SST-KL,131.47,2.344
+,k-$\omega$ SST-V,131.44,2.305
+,k-$\omega$ SST-V no 2/3 rho*k,131.65,2.323
+OVERFLOW,k-$\omega$ SST,130.4,1.838
