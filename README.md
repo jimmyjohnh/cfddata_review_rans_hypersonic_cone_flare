@@ -1,6 +1,6 @@
 # CFD data for Review on RANS for hypersonic cone flare
 This repository contains the CFD simulation data obtained by various participants in the simulation of hypersonic large cone-flare geometries.
-It is associated with the Physics of Fluids Journal Paper:
+It is associated with the [Physics of Fluids Journal Paper](https://pubs.aip.org/aip/pof/article-abstract/37/2/025193/3336380/A-review-of-Reynolds-averaged-Navier-Stokes?redirectedFrom=fulltext):
 ```
 Hoste, JJOE; Gibbons, N; Ecker, T; Amato, C; Knight,
 D; Sattarov, A; Thiry, O; Hickey, JP; Hizir, FE;
