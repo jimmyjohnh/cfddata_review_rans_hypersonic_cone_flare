@@ -1,0 +1,4 @@
+Solver,Turbulence Model,pressure (kPa),Heat Flux (MW/($m^2$))
+GASPex,k-$\omega$ 2006,42.3,1.324
+Eilmer,k-$\omega$ 2006,40.25,1.231
+STAR-CCM+,k-$\omega$ SST,40.33,1.033

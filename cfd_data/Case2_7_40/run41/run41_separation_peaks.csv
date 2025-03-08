@@ -1,0 +1,4 @@
+Solver,Turbulence Model,x$_{sep}$ (m),p$_{peak}$ (kPa),"p$_{peak,loc}$ (m)",q$_{peak}$ (MW/($m^2$)),"q$_{peak,loc}$ (m)"
+GASPex,k-$\omega$ 2006,2.305,93.56,2.394,4.992,2.371
+Eilmer,k-$\omega$ 2006,2.307,95.24,2.395,3.506,2.394
+STAR-CCM+,k-$\omega$ SST,2.345,84.78,2.409,2.005,2.393
