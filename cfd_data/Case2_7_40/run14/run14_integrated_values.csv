@@ -1,0 +1,6 @@
+Solver,Turbulence Model,pressure (kPa),Heat Flux (MW/($m^2$))
+GASPex,k-$\omega$ 2006,31.12,0.253
+Eilmer,k-$\omega$ 2006,29.75,0.231
+STAR-CCM+,k-$\omega$ SST,29.98,0.249
+Ansys Fluent (Ansys Inc),GEKO,29.23,0.23
+SU2,k-$\omega$ SST,28.54,0.2
