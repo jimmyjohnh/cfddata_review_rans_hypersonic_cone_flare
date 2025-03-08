@@ -1,8 +1,8 @@
 Solver,Turbulence Model,x$_{sep}$ (m),p$_{peak}$ (kPa),"p$_{peak,loc}$ (m)",q$_{peak}$ (MW/($m^2$)),"q$_{peak,loc}$ (m)"
-GASPex,k-$\omega$ 2006,111.12,1.225
-Eilmer,k-$\omega$ 2006,105.42,1.144
-STAR-CCM+,k-$\omega$ SST,105.52,1.21
-Ansys Fluent (Aselsan),k-$\omega$ SST 2T a1=0.31,104.59,1.188
-,k-$\omega$ SST a1=0.31,104.53,1.173
-,k-$\omega$ SST a1=0.355,104.74,1.208
-SU2,k-$\omega$ SST,105.0,1.059
+GASPex,k-$\omega$ 2006,2.291,221.89,2.42,3.314,2.379
+Eilmer,k-$\omega$ 2006,2.292,218.48,2.427,2.515,2.427
+STAR-CCM+,k-$\omega$ SST,2.312,204.51,2.404,2.396,2.405
+Ansys Fluent (Aselsan),k-$\omega$ SST 2T a1=0.31,2.277,215.95,2.438,2.449,2.436
+,k-$\omega$ SST a1=0.31,2.284,216.6,2.432,2.425,2.431
+,k-$\omega$ SST a1=0.355,2.318,196.27,2.402,2.377,2.399
+SU2,k-$\omega$ SST,2.35,189.39,2.39,1.925,2.359
