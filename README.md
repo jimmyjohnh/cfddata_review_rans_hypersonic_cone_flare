@@ -1,21 +1,10 @@
 # CFD data for Review on RANS for hypersonic cone flare
 This repository contains the CFD simulation data obtained by various participants in the simulation of hypersonic large cone-flare geometries.
-It is associated with the Physics of Fluids Journal Paper **currently under review**:
+It is associated with the Physics of Fluids Journal Paper:
 ```
-Hoste, JJOE; Gibbons, N; Ecker, T; Amato, C; Knight, D;
-Sattarov, A; Thiry, O; Hickey, JP; Hizir, FE; Kokturk, T;
-Castelino, N; Viti, V; Roldan, MA; Qiang, S; Coder, JG;
-Baurle, RA and White, JA;
-"A review of Reynolds-Averaged Navier-Stokes modeling for hypersonic large cone-flares",
-Physics of Fluids, 2025 (under review)
+Hoste, JJOE; Gibbons, N; Ecker, T; Amato, C; Knight, D; Sattarov, A; Thiry, O; Hickey, JP; Hizir, FE; Kokturk, T; Castelino, N; Viti, V; Roldan, MA; Qiang, S; Coder, JG; Baurle, RA and White, JA; "A review of Reynolds-Averaged Navier-Stokes modeling for hypersonic large cone-flares", Physics of Fluids, 37(2), 2025, https://doi.org/10.1063/5.0246552
 ```
 
-# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-# CURRENTLY, RANDOMIZED DATA IS PROVIDED
-## The correct and complete data will be added once the review process finalizes
-# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ## Explanation of data
 In the folder `cfd_data`, specific run data is provided for each case `Case1_6_42` and `Case2_7_40`. An example tree structure is provided below for `Case1_6_42` with subfolders for each participant and the wall - pressure and - heat flux data. The `.csv` filenames contain the turbulence model used (see paper for the exact details).
